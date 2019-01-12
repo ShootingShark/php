@@ -1,5 +1,7 @@
 <?php
 
-echo "Olá forasteiro"; 
+echo "Got some rare things on sale stranger!"; 
+
+echo "Just Testing Clonflicts";
 
 ?>
